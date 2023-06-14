@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "283841391650",
+    "project_id": "raz-entertainment",
+    "storage_bucket": "raz-entertainment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:3bb16cb13b5ea9bc0f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.djkudayangmana.djjandapirang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:70e5fb56dedcf0460f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.djminang.djviral"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:5361c30806c4e8cb0f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.djremix.taksegampangitu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:5bd11fba6eb52f250f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.djviral.djcampuran.viraltiktokfyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:6cc0bf6e043ad0ee0f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.djviral.djslow.djfullbass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:872404d14572fbfb0f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.djviral.ikandalamkolam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:da3758c146114ea40f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.lagudj.djlengkap.djviral"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:0f9dc2896e01e2040f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.laguhits.dangdutviral.lagudangdut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:0a9c66e6c319dd320f6e7b",
+        "android_client_info": {
+          "package_name": "com.ringtonetelolet.klaksonbasuri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
